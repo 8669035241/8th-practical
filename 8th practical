@@ -1,20 +1,12 @@
 <html>
 <title align = "center">Practical 8</title>
 <body>
-
 <h1 class="title" align = "center">Gallery of perfume</h1>
-
 <img src="C:\Users\ASUS\Downloads\dior.jpg" height="350" width="500">
-
 <img src ="C:\Users\ASUS\Downloads\dior2.jpg" height="350" width="500">
-
 <img src ="C:\Users\ASUS\Downloads\dior3.jpg" height="350" width="500">
-
 <img src ="C:\Users\ASUS\Downloads\dior4.avif" height="350" width="500">
-
 <img src ="C:\Users\ASUS\Downloads\dior.5.jpg" height="350" width="500">
-
-
 <img src ="C:\Users\ASUS\Downloads\dior6.jpg" height="350" width="500">
 
 <img src ="C:\Users\ASUS\Downloads\dior7.jpg" height="350" width="500">
